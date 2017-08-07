@@ -11,6 +11,3 @@ class HelloWorldRouteServiceProvider extends RouteServiceProvider
 		$router->get('hello', 'HelloWorld\Controllers\ContentController@sayHello');
 	}
 }
-
-
- ?>
