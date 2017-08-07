@@ -3,7 +3,7 @@
 namespace HelloWorld\Controllers;
 
 use Plenty\Plugin\Controller;
-use Plenty\Plugin\Template\Twig;
+use Plenty\Plugin\Templates\Twig;
 
 class ContentController extends Controller
 {
